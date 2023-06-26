@@ -3,7 +3,7 @@
 Spaceship Titanic is a Kaggle Competition where users predict which passengers are transported to an alternate dimension!
 This repository will be used to store my notebooks, document my progress, and share my results!
 
-# About the Data
+## About the Data
 
 |Variable | Description |
 |-|-|
@@ -17,3 +17,12 @@ This repository will be used to store my notebooks, document my progress, and sh
 | RoomService, FoodCourt, ShoppingMall, Spa, VRDeck | Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities. |
 | Name | The first and last names of the passenger |
 | Transported | Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict. | 
+
+## Purpose behind this Project
+
+There are three main purposes behind this project:
+* I wanted to demonstrate my skills using the package **pandas**
+* I wanted practice using classification algorithms (**KNN**, **Logistic Regression**, **Decision Trees**, **Random Forest**, **XGBoost**, **LightGBM**, **CatBoost**, **Naive Bayes**, **SVM**)
+* I wanted to learn new classification algorithms (**Logistic Regression**, **CatBoost**, **NaiveBayes**, **SVM**)
+
+## Results
